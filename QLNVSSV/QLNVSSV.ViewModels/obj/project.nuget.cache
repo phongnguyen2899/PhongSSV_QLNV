@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WPnLsDKSVzsizCj/WV1N1gguaiilmeshlLjW3W0nxS+bPDKRucE70jfeFtobUXkrIBXd2cdFs14tDi+hiIkWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PhongNV\\Documents\\Phong\\SSV\\QLNVSSV\\QLNVSSV.ViewModels\\QLNVSSV.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhongNV\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.5\\microsoft.aspnetcore.http.features.5.0.5.nupkg.sha512",
+    "C:\\Users\\PhongNV\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\PhongNV\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\PhongNV\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\bin\Debug\netcoreapp3.1\QLNVSSV.Models.deps.json
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\bin\Debug\netcoreapp3.1\QLNVSSV.Models.dll
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\bin\Debug\netcoreapp3.1\QLNVSSV.Models.pdb
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.csprojAssemblyReference.cache
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.AssemblyInfoInputs.cache
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.AssemblyInfo.cs
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.csproj.CoreCompileInputs.cache
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.dll
+C:\Users\PhongNV\Documents\Phong\SSV\QLNVSSV\QLNVSSV.ViewModels\obj\Debug\netcoreapp3.1\QLNVSSV.Models.pdb
